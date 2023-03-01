@@ -11,7 +11,7 @@ export default function MainContent() {
                 <div className='sub-container'>
                     <h2 className='name'>Javier Ibanez</h2>
                     <h3 className='role'>Full-Stack Developer</h3>
-                    <h5 className='web'>mysite.com</h5>
+                    <h5 className='web'>mywebsite.com</h5>
                     <div className='connect'>
                         <a href="" className='mail'>Email</a>
                         <a href='https://www.linkedin.com/in/ibanez92/' className='linkedin'>LinkedIn</a>
@@ -26,7 +26,7 @@ export default function MainContent() {
                     </div>
                 </div>
                 <div className='footer'>
-                    <a href=''><img src='' alt='github-logo'/></a>
+                    <a href='https://github.com/Ibanez92'><img src='' alt='github-logo'/></a>
                     <a href='https://www.linkedin.com/in/ibanez92/'><img src='' alt='linkedin-logo'/></a>
                     <a href=''><img src='' alt='' /></a>
                 </div>
