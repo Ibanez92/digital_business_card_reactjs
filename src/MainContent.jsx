@@ -29,7 +29,6 @@ export default function MainContent() {
                 <div className='footer'>
                     <a href='https://github.com/Ibanez92'><img src='' alt='github-logo'/></a>
                     <a href='https://www.linkedin.com/in/ibanez92/'><img src='' alt='linkedin-logo'/></a>
-                    <a href=''><img src='' alt='' /></a>
                 </div>
             </div>
         </>
