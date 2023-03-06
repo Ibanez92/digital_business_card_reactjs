@@ -1,6 +1,6 @@
 import React from 'react'
 import './MainContent.css'
-import me from './assets/me.png'
+// import me from './assets/me.png'
 
 export default function MainContent() {
     return (
