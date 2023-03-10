@@ -1,8 +1,8 @@
 import React from 'react'
 import './MainContent.css'
-// import Github from './assets/me.png'
-// import LinkedIn from './assets/me.png'
-// import Me from './assets/me.png'
+import Github from './assets/me.png'
+import LinkedIn from './assets/me.png'
+import Me from './assets/me.png'
 
 export default function MainContent() {
     return (
