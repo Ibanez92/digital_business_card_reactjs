@@ -6,3 +6,10 @@
     font-family: 'Inter', sans-serif;
 
 }
+
+.container{
+    width: 320px;
+    background-color: #1A1B21;
+    border-radius: .8rem;
+    overflow: hidden;
+}
