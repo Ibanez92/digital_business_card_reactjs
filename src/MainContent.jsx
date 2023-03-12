@@ -1,8 +1,9 @@
 import React from 'react'
 import './MainContent.css'
-import Github from './assets/me.png'
-import LinkedIn from './assets/me.png'
+import Github from './assets/github.svg'
+import LinkedIn from './assets/linkedin.svg'
 import Me from './assets/me.png'
+import Mail from './assets/Mail.svg'
 
 export default function MainContent() {
     return (
@@ -14,9 +15,9 @@ export default function MainContent() {
                 <div className='sub-container'>
                     <h2 className='name'>Javier Ibanez</h2>
                     <h3 className='role'>Full-Stack Developer</h3>
-                    <h5 className='web'>mywebsite.com</h5>
+                    <h5 className='web'>ibanez92.github.io/Responsive_Portfolio/</h5>
                     <div className='connect'>
-                        <a href="mailto:MinhVy.Ha@outlook.com" className='mail'><img src={mail} alt="" />Email</a>
+                        <a href="mailto:MinhVy.Ha@outlook.com" className='mail'><img src={Mail} alt="" />Email</a>
                         <a href='https://www.linkedin.com/in/ibanez92/' className='linkedin'><img src={LinkedIn} alt="" />LinkedIn</a>
                     </div>
                     <div className='about'>
