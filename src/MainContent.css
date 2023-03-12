@@ -60,7 +60,7 @@ a {
     text-decoration: none;
     font-weight: 600;
     display: flex;
-    align-items: center    
+    align-items: center;    
 }
 
 .mail {
@@ -102,6 +102,14 @@ a {
     margin-bottom: 2rem;
 }
 
+.linkedin-footer {
+    width: 32px;
+}
+
+.github {
+    width: 30px;
+}
+
 .footer {
     display: flex;
     align-items: center;
@@ -111,9 +119,4 @@ a {
     padding: 1.2rem 0;
 }
 
-
-/* @media only screen and (min-width: 0px) {
-    .main-img{
-        height: 180px
-    }
-} */
+/* @media  */

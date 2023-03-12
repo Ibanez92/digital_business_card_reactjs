@@ -31,7 +31,7 @@ export default function MainContent() {
                 </div>
                 <div className='footer'>
                     <a href='https://github.com/Ibanez92'><img className='github' src={Github} alt='github-logo'/></a>
-                    <a href='https://www.linkedin.com/in/ibanez92/'><img src={LinkedIn} alt='linkedin-logo'/></a>
+                    <a href='https://www.linkedin.com/in/ibanez92/'><img className='linkedin-footer' src={LinkedIn} alt='linkedin-logo'/></a>
                 </div>
             </div>
         </>
