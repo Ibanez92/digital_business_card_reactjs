@@ -42,3 +42,28 @@
     color: #f38f99;
     margin-top: 1rem;
 }
+
+.web {
+    font-size: 11px;
+    margin-top: .1rem;
+}
+
+.connect {
+    padding: 1rem 0;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 600;    
+}
+
+.mail {
+    padding: .4rem 1.75rem;
+    color: black;
+    background-color: white;
+    display: flex
+}
