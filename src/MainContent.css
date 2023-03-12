@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
 * {
     margin: 0;
@@ -40,7 +40,7 @@
 .role {
     font-size: 12.7px;
     color: #f38f99;
-    margin-top: 1rem;
+    margin-top: .3rem;
 }
 
 .web {
@@ -58,12 +58,62 @@
 
 a {
     text-decoration: none;
-    font-weight: 600;    
+    font-weight: 600;
+    display: flex;
+    align-items: center    
 }
 
 .mail {
     padding: .4rem 1.75rem;
     color: black;
     background-color: white;
-    display: flex
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .3rem;
+    border-radius: .35rem;
 }
+
+.linkedin {
+    border-radius: .35rem;
+    padding: .4rem 1.2rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5093e2;
+    gap:.5rem;
+}
+
+.about, .interest {
+    margin-top: 1rem;
+    text-align: left;
+}
+
+.about h3, .interest h3 {
+    margin-bottom: .4rem;
+}
+
+.about p {
+    margin-bottom: .4rem;
+}
+
+.interest p {
+    margin-bottom: 2rem;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background-color: #161619;
+    padding: 1.2rem 0;
+}
+
+
+/* @media only screen and (min-width: 0px) {
+    .main-img{
+        height: 180px
+    }
+} */
