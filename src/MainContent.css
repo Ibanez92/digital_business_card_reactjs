@@ -27,3 +27,18 @@
     object-fit: cover;
     object-position: 50% 26%;
 }
+
+.name {
+    margin-top: 1rem;
+    font-size: 26px
+}
+
+.sub-container {
+    padding: 0 1.5rem;
+}
+
+.role {
+    font-size: 12.7px;
+    color: #f38f99;
+    margin-top: 1rem;
+}
