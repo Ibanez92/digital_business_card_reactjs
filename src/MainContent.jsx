@@ -13,9 +13,9 @@ export default function MainContent() {
                     <img src={Me} alt='' className='main-img' />
                 </div>
                 <div className='sub-container'>
-                    <h2 className='name'>Javier Ibanez</h2>
+                    <h2 className='name'>🇺🇸Javier Ibanez</h2>
                     <h3 className='role'>Full-Stack Developer</h3>
-                    <h5 className='web'>ibanez92.github.io/Responsive_Portfolio/</h5>
+                    <a className='web' href='https://ibanez92.github.io/Responsive_Portfolio/'>⚡My Portfolio Website⚡</a>
                     <div className='connect'>
                         <a href="mailto:MinhVy.Ha@outlook.com" className='mail'><img src={Mail} alt="" />Email</a>
                         <a href='https://www.linkedin.com/in/ibanez92/' className='linkedin'><img src={LinkedIn} alt="" />LinkedIn</a>
