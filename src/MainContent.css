@@ -123,4 +123,26 @@ a {
     padding: 1.2rem 0;
 }
 
-/* @media  */
+@media only screen and (min-width: 0px){
+    .main-img{
+        height: 180px;
+    }
+}
+
+@media only screen and (min-width: 300px){
+    .main-img{
+        height: 220px;
+    }
+}
+
+@media only screen and (min-width: 350px){
+    .main-img{
+        height: 260px;
+    }
+}
+
+@media only screen and (min-width: 430px){
+    .main-img{
+        height: 280px;
+    }
+}
