@@ -38,18 +38,18 @@
 }
 
 .role {
-    font-size: 12.7px;
-    color: #f38f99;
+    font-size: 13px;
+    color: #c3cf97;
     margin-top: .3rem;
 }
 
 .web {
-    font-size: 11px;
+    font-size: 13px;
     margin-top: .5rem;
     margin-bottom: .5rem;
     align-items: center;
     justify-content: center;
-    color: rgb(103, 163, 216);
+    color: rgb(172, 202, 228);
 }
 
 .connect {
@@ -69,7 +69,7 @@ a {
 
 .mail {
     padding: .4rem 1.75rem;
-    color: black;
+    color: rgb(11, 59, 23);
     background-color: white;
     display: flex;
     justify-content: center;
@@ -119,7 +119,7 @@ a {
     align-items: center;
     justify-content: center;
     gap: 1rem;
-    background-color: #161619;
+    background-color: #042415;
     padding: 1.2rem 0;
 }
 
