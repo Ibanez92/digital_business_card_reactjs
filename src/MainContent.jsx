@@ -14,18 +14,18 @@ export default function MainContent() {
                 </div>
                 <div className='sub-container'>
                     <h2 className='name'>Javier Ibanez</h2>
-                    <h3 className='role'>Full-Stack Developer</h3>
+                    <h3 className='role'>Software Engineer</h3>
                     <a className='web' href='https://ibanez92.github.io/Responsive_Portfolio/'>⚡My Portfolio Website⚡</a>
                     <div className='connect'>
                         <a href="mailto:JavierIbanez92@outlook.com" className='mail'><img src={Mail} alt="" />Email</a>
                         <a href='https://www.linkedin.com/in/ibanez92/' className='linkedin'><img src={LinkedIn} alt="" />LinkedIn</a>
                     </div>
                     <div className='about'>
-                        <h3>About</h3>
+                        <h3>About:</h3>
                         <p>I am an aspiring full-stack developer. I am constantly learning and adopting new technologies and knowledge related to my future career.</p>
                     </div>
                     <div className='interest'>
-                        <h3>Interests</h3>
+                        <h3>Interests:</h3>
                         <p>Family. Technology. Music. Sports. Health. I love connecting with new people. Give me a shout at JavierIbanez92@outlook.com</p>
                     </div>
                 </div>
