@@ -13,7 +13,7 @@ export default function MainContent() {
                     <img src={Me} alt='' className='main-img' />
                 </div>
                 <div className='sub-container'>
-                    <h2 className='name'>🇺🇸 Javier Ibanez 🇵🇪</h2>
+                    <h2 className='name'>Javier Ibanez</h2>
                     <h3 className='role'>Full-Stack Developer</h3>
                     <a className='web' href='https://ibanez92.github.io/Responsive_Portfolio/'>⚡My Portfolio Website⚡</a>
                     <div className='connect'>
