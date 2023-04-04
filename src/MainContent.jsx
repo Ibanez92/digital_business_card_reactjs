@@ -26,7 +26,7 @@ export default function MainContent() {
                     </div>
                     <div className='interest'>
                         <h3>Interests:</h3>
-                        <p>Family. Technology. Music. Sports. Health. I love connecting with new people. Give me a shout at JavierIbanez92@outlook.com</p>
+                        <p>Family. Technology. Music. Sports. Health. I love connecting with new people. Connect with me at JavierIbanez92@outlook.com</p>
                     </div>
                 </div>
                 <div className='footer'>
