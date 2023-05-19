@@ -1,1 +1,1 @@
-![card image](http://url/to/img.png)
+![card image](./public/business_card.png)
